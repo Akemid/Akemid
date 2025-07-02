@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Akemid!
 
-<!--
-**Akemid/Akemid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | AWS Cloud Practitioner | AI Practitioner**  
+_Ferreñafe, Peru_ 🇵🇪 | Working remotely
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+
+I'm a passionate software engineer who loves to learn and takes responsibility seriously.  
+Originally from Ferreñafe, Peru, I work remotely and enjoy exploring the world of technology, cloud, and AI.
+
+- 🥘 I really love my local food!
+- 👨‍👧 I'm a proud father.
+- 🚀 Always eager to learn something new.
+
+---
+
+## 🏆 Certifications
+
+- **AWS Cloud Practitioner**
+- **AI Practitioner**
+
+---
+
+## 💻 Favorite Tech Stack
+
+- 🐍 Python (FastAPI, Django)
+- 🅰️ Angular
+
+---
+
+## 🌱 Values
+
+- Lifelong learner
+- Responsible and reliable
+- Family-oriented
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-mondragon/)
+
+---
+
+## 🎉 Fun Fact
+
+- I like One Piece! ☠️🏴‍☠️
+
+---
+
+> “Keep learning, keep growing.”
