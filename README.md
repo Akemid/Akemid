@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akemid!
+# 👋 Hi, I'm Sergio Mondragon (Akemid)!
 
 **Software Engineer | AWS Cloud Practitioner | AI Practitioner**  
 _Ferreñafe, Peru_ 🇵🇪 | Working remotely
