@@ -17,7 +17,7 @@ Originally from Ferreñafe, Peru, I work remotely and enjoy exploring the world 
 ---
 
 ## 🏆 Certifications
-
+- **AWS Certified Developer – Associate**
 - **AWS Cloud Practitioner**
 - **AI Practitioner**
 
