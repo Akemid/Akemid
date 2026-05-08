@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sergio Mondragon (Akemid)!
 
-**Software Engineer | AWS Cloud Practitioner | AI Practitioner**  
+**Software Engineer | AWS User Group Leader**  
 _Ferreñafe, Peru_ 🇵🇪 | Working remotely
 
 ---
